@@ -57,21 +57,21 @@ h3{
 }
 .good-image{
     height: auto;
-    max-width: 50%;
+    max-width: 250px;
     display: block;
     margin: 0 auto 25px auto;
     border: 5px solid red;
 }
 .red-image{
     height: auto;
-    max-width: 100%;
+    max-width: 250px;
     display: block;
     margin: 0 auto 25px auto;
     border: 5px solid red;
 }
 .billie-jean-image{
     height: auto;
-    max-width: 100%;
+    max-width: 250px;
     display: block;
     margin: 0 auto 25px auto;
     border: 5px solid red;    
