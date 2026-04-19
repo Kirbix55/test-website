@@ -55,9 +55,9 @@ h3{
     color: red;
     border: 5px solid blue;
 }
-.rickroll-image{
+.good-image{
     height: auto;
-    max-width: 100%;
+    max-width: 50%;
     display: block;
     margin: 0 auto 25px auto;
     border: 5px solid red;
