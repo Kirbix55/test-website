@@ -56,16 +56,22 @@ h3{
     border: 5px solid blue;
 }
 .rickroll-image{
+    height: auto;
+    max-width: 100%;
     display: block;
     margin: 0 auto 25px auto;
     border: 5px solid red;
 }
 .red-image{
+    height: auto;
+    max-width: 100%;
     display: block;
     margin: 0 auto 25px auto;
     border: 5px solid red;
 }
 .billie-jean-image{
+    height: auto;
+    max-width: 100%;
     display: block;
     margin: 0 auto 25px auto;
     border: 5px solid red;    
